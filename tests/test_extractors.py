@@ -60,7 +60,7 @@ class TestExtractors(unittest.TestCase):
             RX.set_channel_property(channel_id=channel_id, property_name='shared_channel_prop', value=i)
         example_info = dict(
             channel_ids=channel_ids,
-            num_channels=num_channels,
+            num_channels=num_channels,我只是来参考学习的，打扰了
             num_frames=num_frames,
             samplerate=samplerate,
             unit_ids=[1, 2, 3],
